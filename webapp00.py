@@ -5,7 +5,7 @@ import streamlit as st
 st.title("MEU 1º WEB APP STREAMLIT")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Laura tem gente que não sabe e fica dando em cima dos outros")
+st.header("O que ninguem sabe, ninguem estraga")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
